@@ -36,7 +36,9 @@ export default function Hero() {
             Descubra como transformar seu
             <br className="hidden md:inline" />
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary via-primary-light to-primary animate-pulse-soft">
-              time de vendas em uma máquina de alta performance
+              {" "}
+              time de vendas em uma <br className="md:hidden" />
+              máquina de alta performance{" "}
             </span>
             <br className="hidden md:inline" />
             em 2025
@@ -46,13 +48,13 @@ export default function Hero() {
             O segredo das equipes que batem meta todos os meses
           </p>
 
-          <div className="flex items-center justify-center gap-2 md:gap-4 mb-4 md:mb-12">
+          <div className="flex items-center justify-center gap-2 md:gap-4 mb-6 md:mb-12">
             <Calendar className="w-6 h-6 md:w-8 md:h-8 text-primary animate-float" />
             <span className="text-base md:text-2xl text-white font-medium">18/02 às 19h • 100% Online e Gratuito</span>
           </div>
         </div>
 
-        <div className="max-w-md mx-auto mt-4 md:mt-8">
+        <div className="max-w-md mx-auto mt-6 md:mt-8">
           <RegistrationForm />
         </div>
       </div>
