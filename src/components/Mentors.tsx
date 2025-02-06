@@ -5,7 +5,7 @@ const mentors = [
     name: "Caio Vidal",
     role: "Especialista em Vendas B2B",
     description:
-      "Com mais de 17 anos de experiência em vendas B2B, Caio atuou na maior empresa de marketing e vendas da América Latina. Durante sua liderança, a RD Station cresceu de 7 mil para 50 mil clientes. Seu foco é ajudar líderes a escalarem suas equipes com previsibilidade e consistência.",
+      "Com mais de 17 anos de experiência em vendas B2B, Caio é head de vendas na maior empresa de marketing e vendas da América Latina. (Atualizado) Durante sua liderança, a RD Station cresceu de 7 mil para 50 mil clientes. Seu foco é ajudar líderes a escalarem suas equipes com previsibilidade e consistência.",
     image: "https://i.imgur.com/00lTJEp.png",
   },
   {
