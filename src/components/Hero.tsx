@@ -54,7 +54,7 @@ export default function Hero() {
           </div>
         </div>
 
-        <div className="max-w-md mx-auto mt-6 md:mt-8">
+        <div className="max-w-md mx-auto mt-8 md:mt-12">
           <RegistrationForm />
         </div>
       </div>
